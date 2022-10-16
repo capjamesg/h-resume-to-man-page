@@ -25,7 +25,7 @@ _(Note the `./` is needed to open the file.)_
 
 ## License
 
-This project is licensed under an [MIT license](LICENSE).
+This project is licensed under an [MIT 0 license](LICENSE).
 
 ## Contributors
 
